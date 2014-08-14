@@ -1,0 +1,20 @@
+{
+  "name": "hubot-silly",
+  "version": "1.0.0",
+  "author": "Jon Ursenbach <jon@ursenba.ch>",
+  "description": "A collection of random and silly Hubot plugins",
+  "keywords": [
+    "hubot",
+    "silly",
+    "ಠ_ಠ"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teammorrow/hubot-silly.git"
+  }
+}
