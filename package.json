@@ -1,6 +1,6 @@
 {
   "name": "hubot-silly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Jon Ursenbach <jon@ursenba.ch>",
   "description": "A collection of random and silly Hubot plugins.",
   "keywords": [
