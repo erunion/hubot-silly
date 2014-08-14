@@ -1,6 +1,6 @@
 ## hubot-silly
 
-[![NPM](https://nodei.co/npm/hubot-silly)](https://nodei.co/npm/hubot-silly/)
+[![NPM](https://nodei.co/npm/hubot-silly.png)](https://nodei.co/npm/hubot-silly/)
 
 A collection of random and silly [Hubot](https://github.com/github/hubot) plugins.
 
