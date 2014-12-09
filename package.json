@@ -17,5 +17,5 @@
     "type": "git",
     "url": "https://github.com/teammorrow/hubot-silly.git"
   },
-  "main": "./loader"
+  "main": "loader.coffee"
 }
